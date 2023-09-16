@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oe/static/css/main.b809b41b.css",
-    "main.js": "/oe/static/js/main.7a5fbe60.js",
+    "main.css": "/oe/static/css/main.640d727b.css",
+    "main.js": "/oe/static/js/main.b14c7ea2.js",
     "static/js/787.c0841a6b.chunk.js": "/oe/static/js/787.c0841a6b.chunk.js",
     "static/media/bg.PNG": "/oe/static/media/bg.efaf4317662af98e579c.PNG",
     "static/media/photo.png": "/oe/static/media/photo.ff100623766bdee1efed.png",
@@ -17,12 +17,12 @@
     "static/media/arwifi.png": "/oe/static/media/arwifi.988c38e946a034447a4a.png",
     "static/media/Metropolis-Bold.otf": "/oe/static/media/Metropolis-Bold.c5e04fafcff6fc79cd76.otf",
     "index.html": "/oe/index.html",
-    "main.b809b41b.css.map": "/oe/static/css/main.b809b41b.css.map",
-    "main.7a5fbe60.js.map": "/oe/static/js/main.7a5fbe60.js.map",
+    "main.640d727b.css.map": "/oe/static/css/main.640d727b.css.map",
+    "main.b14c7ea2.js.map": "/oe/static/js/main.b14c7ea2.js.map",
     "787.c0841a6b.chunk.js.map": "/oe/static/js/787.c0841a6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b809b41b.css",
-    "static/js/main.7a5fbe60.js"
+    "static/css/main.640d727b.css",
+    "static/js/main.b14c7ea2.js"
   ]
 }
