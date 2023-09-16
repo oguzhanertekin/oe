@@ -98,6 +98,10 @@
   text-decoration: none;
 }
 
+.cv-link {
+  text-decoration: none;
+}
+
 @media (max-width: 600px) {
   .work-title {
     font-size: 5vw;

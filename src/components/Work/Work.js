@@ -186,9 +186,10 @@ function Work() {
           rel="noreferrer"
           download="OğuzhanErtekin-CV"
           target="_blank"
+          classLink="cv-link"
         >
           <Button id="downloadButton" className="cv-btn" variant="outlined">
-            <p>Downloads CV</p>
+            <p>Download CV</p>
           </Button>
         </a>
       </Box>
