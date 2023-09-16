@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url(../../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(../../fonts/Montserrat/Montserrat-Medium.ttf);
+  font-weight: 200;
+}
+
+.appbar {
+  position: fixed;
+  top: 0;
+  z-index: 3;
+  height: 5vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.appbar .toolbar {
+  top: 0;
+  background-color: rgba(248, 248, 248, 0.371);
+  width: 400px;
+  min-height: 10px;
+  border-radius: 0 0 15px 15px;
+  /* border-bottom: 1px solid #cd1b1b; */
+  box-shadow: 0px 1px 10px #00000042;
+  backdrop-filter: blur(10px);
+}
+html {
+  scroll-behavior: smooth;
+}
+.box a .navbar-btn {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  display: block;
+  border-radius: 50px;
+  font-size: 12px;
+  font-family: "Montserrat";
+  text-transform: none;
+}
+
+.box a {
+  text-decoration: none;
+}
+
+.box a .navbar-btn:hover {
+  background-color: rgba(255, 255, 255, 0.295);
+  color: #cd1b1b;
+  display: block;
+  border-radius: 50px;
+  transition: 0.5s;
+}
+
+.box .navbar-btn.active {
+  color: #ad0000;
+  font-weight: 200;
+}
+
+@media (max-width: 800px) {
+  .appbar .toolbar {
+    width: auto;
+  }
+}
