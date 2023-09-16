@@ -181,9 +181,14 @@ function Work() {
             </Item>
           </Grid>
         </Grid>
-        <a href={CV} download="OğuzhanErtekin-CV" target="_blank">
+        <a
+          href={CV}
+          rel="noreferrer"
+          download="OğuzhanErtekin-CV"
+          target="_blank"
+        >
           <Button id="downloadButton" className="cv-btn" variant="outlined">
-            <p>Download CV</p>
+            <p>Downloads CV</p>
           </Button>
         </a>
       </Box>
