@@ -169,7 +169,7 @@ function SkillsContent() {
                   Flutter
                 </AccordionSummary>
                 <AccordionDetails className="accordion-details">
-                  Data Structures, Algorithms
+                  Static Page Applications
                 </AccordionDetails>
               </Accordion>
               <Accordion>
