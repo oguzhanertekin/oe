@@ -210,10 +210,10 @@ function HomeContent() {
           I'm <span className="second-word">{currentWord}</span>
         </p>
         <p className="about">
-          Lorem ipsum, dolor sisst amet consectetur adipisicing elit. Illum
-          omnis ex facilis temporibus laudantium ipsam fugit. Nihil, ullam. Non
-          quos commodi autem ipsa eius aperiam molestias, nostrum officiis culpa
-          voluptates! Lorem
+          I am a senior student at Hacettepe University Computer Science
+          Department. I have been interested in software for 4 years and digital
+          design for 6 years. I want to further my career in Web development and
+          mobile application development.
         </p>
         <div className="btn-section">
           <Button className="first-button btn" onClick={handleScrollToAbout}>

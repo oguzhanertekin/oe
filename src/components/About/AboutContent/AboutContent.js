@@ -37,27 +37,29 @@ function AboutContent() {
       <div className="about-div">
         <p className="about-title">About Me</p>
         <p className="about-text">
-          Lorem ipsum, dolor sisst amet consectetur adipisicing elit. Illum
-          omnis ex facilis temporibus laudantium ipsam fugit. Nihil, ullam. Non
-          quos commodi autem ipsa eius aperiam molestias,Lorem ipsum, dolor
-          sisst amet consectetur adipisicing elit. Illum omnis ex facilis
-          temporibus laudantium ipsam fugit. Nihil, ullam. Non quos commodi
-          autem ipsa eius aperiam molestias,Lorem ipsum, dolor sisst amet
-          consectetur adipisicing elit. Illum omnis ex facilis temporibus
-          laudantium ipsam fugit. Nihil, ullam. Non quos commodi autem ipsa eius
-          aperiam molestias,Lorem ipsum, dolor sisst amet consectetur
-          adipisicing elit. Illum omnis ex facilis temporibus laudantium ipsam
-          fugit. Nihil, ullam. Non quos commodi autem ipsa eius aperiam
-          molestias,am molestias,Lorem ipsum, dolor sisst amet consectetur
-          adipisicing elit. Illum omnis ex facilis temporibus laudantium ipsam
-          fugit. Nihil, ullam. Non quos commodi autem ipsa eius aperiam
-          molestias,am molestias,Lorem ipsum, dolor sisst amet consectetur
-          adipisicing elit. Illum omnis ex facilis temporibus laudantium ipsam
-          fugit. Nihil, ullam. Non quos commodi autem ipsa eius aperiam
-          molestias,am molestias,Lorem ipsum, dolor sisst amet consectetur
-          adipisicing elit. Illum omnis ex facilis temporibus laudantium ipsam
-          fugit. Nihil, ullam. Non quos commodi autem ipsa eius aperiam
-          molestias,
+          Studying at Hacettepe University Computer Science Department as a 4th
+          year student. I am someone who loves and cares about his job,
+          completes his duties on time, has responsible and high communication
+          skills and loves to improve himself in every field. Throughout my
+          education life, I actively took part in student societies, fairs,
+          summits and various activities. I served as a board member
+          (Coordinator, Director, Vice President) at ACM Hacettepe Student
+          Chapter for 3 years, and worked as a designer at Hacettepe University
+          Career Development Application Research Center and Hacettepe Career
+          Fair event for 2 years, and I am still working. Therefore, I define
+          myself as a social person and I can easily adapt to the environments I
+          am in, both socially and work-wise. In addition to my social skills, I
+          also like to improve myself technically. I have been interested in
+          software development for 4 years. I did both lab assignments, projects
+          and internship tasks with a great passion for software, and while
+          doing so, I also improved myself. My first internship was as a
+          software developer at Innova Bilişim Çözümleri, and my second
+          internship was as a Front-End Developer at OBSS Technology. I am on my
+          way to making myself a better software developer with what I have
+          learned from both internships and technical courses. I am currently
+          interested in Front-End Development and soon I want to gain experience
+          in Back-End Development and advance my career as a Full-Stack
+          Developer.
         </p>
         <div className="icons">
           <IconButton
